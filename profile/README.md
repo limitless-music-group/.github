@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+We're innovating the music industry, one artist at a time.
+
 <!--
 
 **Here are some ideas to get you started:**
